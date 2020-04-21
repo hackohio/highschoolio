@@ -2,7 +2,7 @@
 ![Deployment Status](https://github.com/hackohio/highschoolio/workflows/HS-site%20S3%20Deployment/badge.svg)  
 Welcome to the official website for High School I/O, an annual high school hackathon hosted by OHI/O.
 
-# How to contribute to the homepage
+# How to contribute to the website
 - You may want to run a local testing server if you're working with absolute paths or page builders.
 
 **Folder Structure**:  
