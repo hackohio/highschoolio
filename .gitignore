@@ -5,3 +5,4 @@
 # IDE files
 .idea/
 /.project
+.vscode/settings.json
